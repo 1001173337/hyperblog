@@ -16,5 +16,6 @@ Un blog increible Curso de [Curso Git y GitHub](https://platzi.com/cursos/git-gi
 * Las personalidades múltiples de Freddy
 * Creado por el increible Platzi Team
 * Incluye ideas de Adriana
+* Disponible para todas las edades
 
 Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñando para el ejemplo.Si llegas NOTE LO TOMES ENB SERIO y mejor ver el curso. [**Ver curso**](https://platzi.com/cursos/git-github/ "Git y GitHub") 
